@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Memoria de trabajo interna (notas de desarrollo, no para el repo público)
+CLAUDE.md

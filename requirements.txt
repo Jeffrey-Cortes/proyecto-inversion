@@ -1,0 +1,11 @@
+# Dependencias directas del proyecto (no es un lockfile completo: para las
+# transitivas, ver el entorno instalado con `pip freeze`).
+yfinance==1.7.0
+pandas==3.0.6
+numpy==2.5.3
+scipy==1.18.1
+matplotlib==3.11.2
+scikit-learn==1.9.1  # Fase 3, Paso 3 (ML clásico)
+xgboost==3.4.1        # Fase 3, Paso 3 (ML clásico)
+jupyter==1.1.1
+ipykernel==7.3.0
